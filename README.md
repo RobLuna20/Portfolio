@@ -29,14 +29,14 @@ Adaptable and quick learner in Information Science & Technology, eager to apply 
    - *Technologies Used:* Python, Pygame, Pycharm IDE.
    - *GitHub Repository:* [Project 1](https://github.com/RobLuna20/PersonalProjects2024)
 
-2. **Project Name 2**
-   - *Description:* Brief overview of the project.
+2. **Face\Eye Tracker Using Python, Google's MediaPipe and CV2**
+   - *Description:* This Python program employs OpenCV and MediaPipe to perform real-time face mesh detection using a computer's camera. It captures video frames, processes them with the FaceMesh model, extracts facial landmark points, and visualizes them on the original frames by drawing circles at the specified coordinates. The program continuously displays a live demonstration of facial landmark tracking, showcasing the detected points on the user's face.
    - *Technologies Used:* List of technologies.
-   - *GitHub Repository:* [Project 2](https://github.com/yourusername/project2)
+   - *GitHub Repository:* [Project 2](https://github.com/RobLuna20/EyeTrackerPython)
 
 3. **Project Name 3**
    - *Description:* Brief overview of the project.
-   - *Technologies Used:* List of technologies.
+   - *Technologies Used:* Python, Google MediaPipe, OpenCV, PycharmIDE.
    - *GitHub Repository:* [Project 3](https://github.com/yourusername/project3)
   
 4. **UX/UI Design Project 1: GenEd Discovery for Temple University**
