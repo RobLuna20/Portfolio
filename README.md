@@ -8,7 +8,7 @@ Adaptable and quick learner in Information Science & Technology, eager to apply 
 ## Languages
 - English: Fluent
 - Spanish: Fluent
-
+---
 ## Education
 
 ### Bachelor of Science in Information Science & Technology
