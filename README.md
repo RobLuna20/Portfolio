@@ -13,6 +13,8 @@
     - Server-Side Web Application Development
 
 ### Extrarricular
+**TUDev: Community of designers, developers, hackers, and makers.**
+- Member since January 2023
 
 ### Projects
 1. **Project Name 1**
