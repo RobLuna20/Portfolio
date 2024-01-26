@@ -5,7 +5,7 @@
 ## Education
 
 ### Bachelor of Science in Information Science & Technology
-- **Temple University, Philadelphia, Pennsylvania**
+- **Temple University, Philadelphia, Pennsylvania, USA**
   - *December 2023*
   - Relevant Courses:
     - Component-Based Software Design
@@ -13,14 +13,14 @@
     - Server-Side Web Application Development
 
 ### Extrarricular
-**TUDev: Community of designers, developers, hackers, and makers.**
+**TUDev: Community of designers, developers, hackers, and makers at Temple University.**
 - Member since January 2023
 
 ### Projects
-1. **Project Name 1**
-   - *Description:* Brief overview of the project.
-   - *Technologies Used:* List of technologies.
-   - *GitHub Repository:* [Project 1](https://github.com/yourusername/project1)
+1. **Bobby The Snail Runner: Pygame Video Game**
+   - *Description:* A Python-based game using Pygame. Guide the player character, avoiding collisions with a looping snail. Features gravity effects and interactive controls. Showcase of fundamental game development concepts.
+   - *Technologies Used:* Python, Pygame, Pycharm IDE.
+   - *GitHub Repository:* [Project 1](https://github.com/RobLuna20/PersonalProjects2024)
 
 2. **Project Name 2**
    - *Description:* Brief overview of the project.
