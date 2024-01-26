@@ -1,5 +1,7 @@
 # Portfolio
 
+#### Technical Skills: C#, Python, SQL, .NET framework
+
 ## Education
 
 ### Bachelor of Science in Information Science & Technology
