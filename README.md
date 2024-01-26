@@ -32,10 +32,10 @@
    - *Technologies Used:* List of technologies.
    - *GitHub Repository:* [Project 3](https://github.com/yourusername/project3)
   
-4. **UX/UI Design Project 1**
+4. **UX/UI Design Project 1: GenEd Discovery for Temple University**
    - *Description:* This project focuses on UX/UI design for Temple University's GenEd Discovery Project.
    - *Figma Design:* [Figma Design](https://www.figma.com/file/xlHekLHTIC6nbx2F2uemI4/GenEd-Discovery-1.0?type=design&mode=design&t=b9SvkaxHFYX9dLfL-1)
      
-4. **UX/UI Design Project 2**
+4. **UX/UI Design Project 2: BeFuerte**
    - *Description:* This project focuses on UX/UI design for a personal project.
    - *Figma Design:* [Figma Design](https://www.figma.com/file/ZdIokrXV77qA2S4MPNryNW/UI-beFuerte?type=design&node-id=0%3A1&mode=design&t=b9SvkaxHFYX9dLfL-1)
