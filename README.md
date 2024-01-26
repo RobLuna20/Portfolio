@@ -3,7 +3,7 @@
 #### Technical Skills: C#, Python, SQL, .NET framework, Figma, HTML, CSS, JavaScript
 
 ## Objective
-Adaptable and quick learner in Information Science & Technology, eager to apply and expand skills my skills. Committed to delivering excellence in every task, I bring a proactive and dedicated approach to problem-solving and continuous improvement.
+Adaptable and quick learner in Information Science & Technology, eager to apply and expand my skills. Committed to delivering excellence in every task, I bring a proactive and dedicated approach to problem-solving and continuous improvement.
 
 ## Languages
 - English: Fluent
