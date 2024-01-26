@@ -17,4 +17,4 @@
 ### Projects
 
 <!-- Round Image with Custom Size -->
-<img src="{{_config.yml}}" alt="Logo" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+<img src="https://raw.githubusercontent.com/RobLuna20/Portfolio/main/others/IMG_4025_Facetune_07-05-2021-13-08-23.jpg" alt="Logo" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
