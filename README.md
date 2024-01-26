@@ -10,4 +10,6 @@
   - Relevant Courses: Component-Based Software Design, Client-Side Scripting for the Web,
     Server-Side Web Application Development.
 
+### Extrarricular
+
 ### Projects
