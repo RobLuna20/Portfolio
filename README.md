@@ -19,7 +19,7 @@ Adaptable and quick learner in Information Science & Technology, eager to apply 
     - Client-Side Scripting for the Web
     - Server-Side Web Application Development
 
-### Extrarricular
+### extracurricular
 **TUDev: Community of designers, developers, hackers, and makers at Temple University.**
 - Member since January 2023
 
