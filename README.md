@@ -38,11 +38,16 @@ Adaptable and quick learner in Information Science & Technology, eager to apply 
    - *Description:* This Python project creates a simple web browser using PyQt5, allowing users to navigate through web pages. The browser has basic functionalities such as navigation buttons (Back, Forward, Reload, Home), a URL bar for manual input, and real-time URL updates. It is implemented as a PyQt5 application with a graphical user interface, providing a straightforward and functional web browsing experience
    - *Technologies Used: PyQt5, Qt WebEngine, Python, PycharmIDE* 
    - *GitHub Repository:* [Project 3](https://github.com/RobLuna20/MoonBrowser)
+     
+4. **Basic Python Browser: AstroMoon**
+   - *Description:* This Python project creates a simple web browser using PyQt5, allowing users to navigate through web pages. The browser has basic functionalities such as navigation buttons (Back, Forward, Reload, Home), a URL bar for manual input, and real-time URL updates. It is implemented as a PyQt5 application with a graphical user interface, providing a straightforward and functional web browsing experience
+   - *Technologies Used: PyQt5, Qt WebEngine, Python, PycharmIDE* 
+   - *GitHub Repository:* [Project 3](https://github.com/RobLuna20/MoonBrowser)
   
-4. **UX/UI Design Project 1: GenEd Discovery for Temple University**
+5. **UX/UI Design Project 1: GenEd Discovery for Temple University**
    - *Description:* This project focuses on UX/UI design for Temple University's GenEd Discovery Project.
    - *Figma Design:* [Figma Design](https://www.figma.com/file/xlHekLHTIC6nbx2F2uemI4/GenEd-Discovery-1.0?type=design&mode=design&t=b9SvkaxHFYX9dLfL-1)
      
-4. **UX/UI Design Project 2: BeFuerte**
+6. **UX/UI Design Project 2: BeFuerte**
    - *Description:* This project focuses on UX/UI design for a personal project.
    - *Figma Design:* [Figma Design](https://www.figma.com/file/ZdIokrXV77qA2S4MPNryNW/UI-beFuerte?type=design&node-id=0%3A1&mode=design&t=b9SvkaxHFYX9dLfL-1)
