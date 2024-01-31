@@ -34,10 +34,10 @@ Adaptable and quick learner in Information Science & Technology, eager to apply 
    - *Technologies Used:* Python, Google MediaPipe, OpenCV, PycharmIDE.
    - *GitHub Repository:* [Project 2](https://github.com/RobLuna20/EyeTrackerPython)
 
-3. **Project Name 3**
-   - *Description:* Brief overview of the project.
-   - *Technologies Used:* 
-   - *GitHub Repository:* [Project 3](https://github.com/yourusername/project3)
+3. **Basic Python Browser: AstroMoon**
+   - *Description:* This Python project creates a simple web browser using PyQt5, allowing users to navigate through web pages. The browser has basic functionalities such as navigation buttons (Back, Forward, Reload, Home), a URL bar for manual input, and real-time URL updates. It is implemented as a PyQt5 application with a graphical user interface, providing a straightforward and functional web browsing experience
+   - *Technologies Used: PyQt5, Qt WebEngine, Python, PycharmIDE* 
+   - *GitHub Repository:* [Project 3](https://github.com/RobLuna20/MoonBrowser)
   
 4. **UX/UI Design Project 1: GenEd Discovery for Temple University**
    - *Description:* This project focuses on UX/UI design for Temple University's GenEd Discovery Project.
